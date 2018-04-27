@@ -42,6 +42,9 @@
 
 ## C 
 
+- [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation
 - [ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror
 - [parker](https://github.com/lijingpeng/parker) - FTP Search engine
 
@@ -55,7 +58,9 @@
 
 ## C++ 
 
-- [fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, UpscaleDB, ForestDB GUI management tool.
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+- [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
+- [fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, UpscaleDB, ForestDB, Pika GUI management tool.
 - [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
 - [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -63,9 +68,13 @@
 
 ## CSS 
 
+- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a Lightweight, Responsive and Modern CSS Framework
+- [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
+- [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+- [BareCSS](https://github.com/longsien/BareCSS) - A classless CSS framework
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [lit](https://github.com/Ajusa/lit) - World's smallest responsive 🔥 css framework (398 bytes)
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
+- [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 List of applications, alfred workflows and various tools that make my macOS experience even more amazing
 - [Boost2html](https://github.com/xbotao/Boost2html) - convert boostnote snippets to web htmls
 - [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
@@ -73,7 +82,7 @@
 - [daft-auto-spacing](https://github.com/zizhengwu/daft-auto-spacing) - 在汉字与西文之间插入一个半角空格的工具
 - [flex.css](https://github.com/lzxb/flex.css) - flex.css is declarative layout which is compatible with wechat, UC, webview and other main-stream mobile browser and surpports react, vue, angular.
 - [Farbox-NexT](https://github.com/Sunnyyoung/Farbox-NexT) - A hexo theme NexT for Farbox.
-- [nib](https://github.com/tj/nib) - Stylus mixins, utilities, components, and gradient image generation
+- [nib](https://github.com/stylus/nib) - Stylus mixins, utilities, components, and gradient image generation
 - [stylus-mixins](https://github.com/jackbrewer/stylus-mixins) - Mixins to help speed Stylus development
 - [rider](https://github.com/ecomfe/rider) - Rider 是一个基于 Stylus 与后处理器、无侵入风格的 CSS 样式工具库
 - [site](https://github.com/EasyWeChat/site) - Easywechat.org
@@ -112,10 +121,12 @@
 
 ## Go 
 
+- [ghq](https://github.com/motemen/ghq) - Remote repository management made easy
+- [gobackup](https://github.com/huacnlee/gobackup) - 🗄 Simple tool for backup your databases, files to FTP / SCP / S3 storages.
 - [govendor](https://github.com/kardianos/govendor) - Go vendor tool that works with the standard vendor file.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
 - [pholcus](https://github.com/henrylee2cn/pholcus) - [Crawler for Golang] Pholcus is a distributed, high concurrency and powerful web crawler software.
-- [pipe](https://github.com/b3log/pipe) - :saxophone: 小而美的博客平台。A small and beautiful blogging platform.
+- [pipe](https://github.com/b3log/pipe) - :saxophone: A small and beautiful blogging platform. 小而美的博客平台。
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发中...)
 - [youjumpijump](https://github.com/faceair/youjumpijump) - ⚠️⚠️⚠️ DEPRECATED
 - [nba-live](https://github.com/xwjdsh/nba-live) - Watch NBA games in the terminal, the content in Chinese only.
@@ -131,6 +142,7 @@
 
 ## HTML 
 
+- [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
 - [jsperf](https://github.com/hasharray/jsperf) - JavaScript Performance Benchmarks
 - [intercooler-js](https://github.com/LeadDyno/intercooler-js) - Making AJAX as easy as anchor tags
@@ -147,32 +159,70 @@
 - [HTML-Head-Generator](https://github.com/dimpurr/HTML-Head-Generator) - Common HTML &lt;head&gt; Tag Generator Builder Script
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
-- [WeixinApi](https://github.com/zxlie/WeixinApi) - 专门用于微信公众平台的Javascript API
+- [html5demos](https://github.com/remy/html5demos) - Collection of hacks and demos showing capability of HTML5 apps
 
 ## Java 
 
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access
 - [PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
-- [spring-boilerplate](https://github.com/wxyyxc1992/spring-boilerplate) - Spring Boot 项目模板：Gradle / Maven / Weixin
-- [wechat-api](https://github.com/biezhi/wechat-api) - 🗯 微信个人号API Java版本
+- [Backend-Boilerplate](https://github.com/wxyyxc1992/Backend-Boilerplate) - Boilerplate for Your Server Side(Backend) Application, Spring Boot | Node.js | Go | Wexin 💫 服务端项目模板
+- [wechat-api](https://github.com/biezhi/wechat-api) - 🗯 wechat-api by java7.
 - [GBSlideBar](https://github.com/edanel/GBSlideBar) - 类似uber/滴滴等app的滑动选择工具条
 - [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
 
 ## JavaScript 
 
+- [dayjs](https://github.com/xx45/dayjs) - ⏰Fast 2KB immutable date library alternative to Moment.js with the same modern API
+- [nanographql](https://github.com/yoshuawuyts/nanographql) - Tiny graphQL client library
+- [luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
+- [tiny-glob](https://github.com/terkelg/tiny-glob) - Super tiny and ~350% faster alternative to node-glob 🚀
+- [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+- [moxios](https://github.com/axios/moxios) - Mock axios requests for testing
+- [react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
+- [Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
+- [tojike-chrome-extension](https://github.com/Unknow-Y/tojike-chrome-extension) - 微即分：网页版即刻的好伙伴
+- [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+- [eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - AlloyTeam ESLint 规则
+- [consola](https://github.com/nuxt/consola) - 🐨 Elegant Console Logger
+- [vue-test-utils](https://github.com/vuejs/vue-test-utils) - 🔬 Utilities for testing Vue components
+- [react-composition-input](https://github.com/LeoEatle/react-composition-input) - The input component optimized for languages like Chinese, Japanese etc.
+- [httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
+- [transliteration](https://github.com/andyhu/transliteration) - UTF-8 to ASCII transliteration / slugify module for node.js, browser, Web Worker, React Native, Electron and CLI.
+- [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged in Electron
+- [kafka-node](https://github.com/SOHU-Co/kafka-node) - Node.js client for Apache Kafka 0.8 and later.
+- [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [md](https://github.com/egoist/md) - A markdown parser and compiler. Built for speed.
+- [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+- [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
+- [tofu.js](https://github.com/alibaba/tofu.js) - The official web framework for WebAR.
+- [muban](https://github.com/yue/muban) - Build cross-platform desktop apps with system webview and native GUI widgets.
+- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
+- [eslint-plugin-eggache](https://github.com/eggjs/eslint-plugin-eggache) - custom eslint rule for egg, especially for the RTFM issues
+- [micro-bot](https://github.com/telegraf/micro-bot) - :robot: Zero-configuration Telegram bot runner
+- [telegraf](https://github.com/telegraf/telegraf) - 📡Telegram bot framework for Node.js
+- [macro-components](https://github.com/jxnblk/macro-components) - Create flexible layout and composite UI components without the need to define arbitrary custom props
+- [mp-push-leancloud](https://github.com/brucx/mp-push-leancloud) - 基于 LeanCloud 的微信公众号消息推送服务，类似“server酱”，无成本5分钟部署
+- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック
+- [codesandbox-client](https://github.com/CompuIves/codesandbox-client) - An online code editor tailored for web application development 🏖️
+- [gq-loader](https://github.com/Houfeng/gq-loader) - The best GraphQL Loader for Webpack
+- [social-tags-webpack-plugin](https://github.com/Leocardoso94/social-tags-webpack-plugin) - A wepback plugin to generate social meta-tags
+- [condenser](https://github.com/steemit/condenser) - The social application web front-end to the Steem Blockchain.
+- [node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
+- [medis](https://github.com/luin/medis) - Medis is a beautiful, easy-to-use Mac database management application for Redis.
+- [feathers](https://github.com/feathersjs/feathers) - A REST and realtime API layer for modern applications.
 - [matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
 - [sade](https://github.com/lukeed/sade) - Smooth (CLI) Operator 🎶
 - [polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
-- [surmon.me](https://github.com/surmon-china/surmon.me) - 🆒 My blog site powered by @nuxt
 - [esnextbin](https://github.com/voronianski/esnextbin) - :boom: Create browser programs in ESNext code and import modules from NPM in browser
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [React-autobind](https://github.com/cassiozen/React-autobind) - Utility function to Automatically bind methods defined within a component's Class to the current object's lexical `this` instance.
 - [autobind-decorator](https://github.com/andreypopp/autobind-decorator) - Decorator to automatically bind methods to class instances
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [rc-mobx-form](https://github.com/Frezc/rc-mobx-form) - A react form component depends on mobx with similar api to rc-form.
-- [react-loadable](https://github.com/thejameskyle/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [mobx-react-typescript-boilerplate](https://github.com/mobxjs/mobx-react-typescript-boilerplate) - Minimal boilerplate for a single-page app using React, TypeScript, TSX, Webpack
 - [unchanged](https://github.com/planttheidea/unchanged) - A tiny, fast, unopinionated handler for updating JS objects and arrays immutably
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -199,8 +249,8 @@
 - [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [zhihu-spider](https://github.com/wuomzfx/zhihu-spider) - 知乎爬虫程序，定时跟踪问题数据，定时推送热门话题
 - [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
-- [electron-xiami](https://github.com/eNkru/electron-xiami) - 虾米音乐 Linux & Mac | Xiami Player desktop for Linux & Mac supported by Electron
-- [musicAPI](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for xiami, netease, and qq music.
+- [electron-xiami](https://github.com/eNkru/electron-xiami) - 虾米音乐 & 虾米电台 - Linux & Mac | Xiami Player & Xiami Radio desktop for Linux & Mac supported by Electron
+- [musicAPI](https://github.com/LIU9293/musicAPI) - Centralized package to get data from qq, xiami, netease music
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal:
 - [bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -209,7 +259,7 @@
 - [vue-md-loader](https://github.com/wxsms/vue-md-loader) - :sparkles: Markdown files to ALIVE Vue components.
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
 - [tlx](https://github.com/anywhichway/tlx) - Imagine a light weight combination of JSX, Vue, and React but using JavaScript template literals - No Preprocessor Required.
-- [mini-store](https://github.com/yesmeck/mini-store) - A state store for React component.
+- [mini-store](https://github.com/yesmeck/mini-store) - A minimal state store for React component.
 - [graphql.github.io](https://github.com/xitu/graphql.github.io) - GraphQL 中文文档（由社区自愿者翻译）
 - [condenser](https://github.com/skenan/condenser) - Steemit中文版
 - [preact-cli](https://github.com/developit/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
@@ -219,16 +269,15 @@
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [ihope](https://github.com/gobum/ihope) - The most simplest test library in the world for JavaScript.
 - [react-inspector](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app
-- [react-static](https://github.com/nozzle/react-static) - ⚛️ 🚀 A progressive static-site generator for React.
+- [react-static](https://github.com/nozzle/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
 - [busy](https://github.com/busyorg/busy) - Blockchain-based social network where anyone can earn rewards 🚀
 - [vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
-- [weex-ui](https://github.com/alibaba/weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
 - [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art:
 - [weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
 - [disky](https://github.com/d-band/disky) - Make NTFS writable on macOS
-- [awesome-npx](https://github.com/js-n/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
+- [awesome-npx](https://github.com/suarasaur/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [listr](https://github.com/SamVerschueren/listr) - Terminal task list
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [marko](https://github.com/marko-js/marko) - A friendly (and fast!) UI library from eBay that makes building web apps fun
@@ -238,7 +287,7 @@
 - [micro-dev](https://github.com/zeit/micro-dev) - The development environment for `micro`
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
-- [avoriaz](https://github.com/EddYerburgh/avoriaz) - 🔬 a Vue.js testing utility library
+- [avoriaz](https://github.com/eddyerburgh/avoriaz) - 🔬 a Vue.js testing utility library
 - [nock](https://github.com/node-nock/nock) - HTTP mocking and expectations library
 - [VRouter](https://github.com/icymind/VRouter) - 一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理.
 - [browser-env](https://github.com/lukechilds/browser-env) - Simulates a global browser environment using jsdom
@@ -247,21 +296,21 @@
 - [synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
-- [moon](https://github.com/kbrsh/moon) - 🌙 ⚡️ A minimal, blazing fast UI library.
+- [moon](https://github.com/kbrsh/moon) - 🌙 A minimal, blazing fast UI library.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [mirror](https://github.com/mirrorjs/mirror) - A simple and powerful React framework with minimal API and zero boilerplate.
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
-- [cxs](https://github.com/jxnblk/cxs) - fast af css-in-js in 0.7kb
-- [esm](https://github.com/standard-things/esm) - ES modules in Node today!
+- [cxs](https://github.com/cxs-css/cxs) - fast af css-in-js in 0.7kb
+- [esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!
 - [babel-plugin-inline-package-json](https://github.com/andrewimm/babel-plugin-inline-package-json) - Babel plugin for inlining references to package.json values
-- [nanoid](https://github.com/ai/nanoid) - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [nanoid](https://github.com/ai/nanoid) - A tiny (170 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
 - [spikenail](https://github.com/spikenail/spikenail) - A GraphQL Framework for Node.js
 - [hazel](https://github.com/zeit/hazel) - Lightweight update server for Electron apps
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [util](https://github.com/react-component/util) - Common Utils For React Component
 - [babel-plugin-transform-react-to-vue](https://github.com/vueact/babel-plugin-transform-react-to-vue) - Transform React component to Vue component (beta)
-- [simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的 Chrome extension
+- [simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [react-emoji-render](https://github.com/tommoor/react-emoji-render) - Normalize and render emoji's the way your users expect.
 - [react-broadcast](https://github.com/ReactTraining/react-broadcast) - Reliably communicate state changes to deeply nested React elements
 - [babel-plugin-console](https://github.com/mattphillips/babel-plugin-console) - Babel Plugin that adds useful build time console functions 🎮
@@ -272,10 +321,10 @@
 - [simplecrawler](https://github.com/simplecrawler/simplecrawler) - Flexible event driven crawler for node.
 - [racci](https://github.com/cogons/racci) - 🕊️ A lightweight search engine for Node.js, Chinese supported.
 - [mz-modules](https://github.com/node-modules/mz-modules) - Same as `mz`, but wrap modules in the world rather than core API.
-- [Boostnote](https://github.com/BoostIO/Boostnote) - The note-taking app for programmers that focusing on markdown, snippet and customizability.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - The note-taking app for programmers that focuses on markdown, snippets, and customizability.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [minami](https://github.com/nijikokun/minami) - Clean and minimal JSDoc 3 Template / Theme
-- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
+- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript framework for building web applications.
 - [nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
 - [typed-vue](https://github.com/zigomir/typed-vue) - Vue, Typescript and Webpack.
 - [lb6-actions](https://github.com/hlissner/lb6-actions) - A litter of LaunchBar 6 actions
@@ -291,17 +340,17 @@
 - [wechat4u](https://github.com/nodeWechat/wechat4u) - 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [rewire](https://github.com/jhnns/rewire) - Easy monkey-patching for node.js unit tests
-- [plop](https://github.com/amwmedia/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity
+- [plop](https://github.com/amwmedia/plop) - Consistency Made Simple
 - [in-publish](https://github.com/iarna/in-publish) - Detect if we were run as a result of `npm publish`.
 - [codepan](https://github.com/egoist/codepan) - Like codepen and jsbin but works offline.
-- [declarative-crawler](https://github.com/wxyyxc1992/declarative-crawler) - Declarative and Observable Distributed Crawler(Node / Go / Java / Rust) For Web, RDB, OS, also can act as a Monitor(with Prometheus) or ETL for Infrastructure
+- [xe-crawler](https://github.com/wxyyxc1992/xe-crawler) - Xenomorph Crawler, a Concise, Declarative and Observable Distributed Crawler(Node / Go / Java / Rust) For Web, RDB, OS, also can act as a Monitor(with Prometheus) or ETL for Infrastructure :dizzy: 多语言执行器，分布式爬虫
 - [custom-form](https://github.com/callmedadaxin/custom-form) - 后端可配表单，搭配element-ui
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
 - [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
-- [local-web-server](https://github.com/lwsjs/local-web-server) - The modular web server for productive full-stack development
+- [local-web-server](https://github.com/lwsjs/local-web-server) - The modular HTTP2 web server for productive full-stack development
 - [nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [zhihu_fun](https://github.com/AnyISalIn/zhihu_fun) - 基于 Selenium 的知乎关键词爬虫
@@ -313,7 +362,7 @@
 - [reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development. http://reactide.io
 - [should2assert](https://github.com/node-modules/should2assert) - A tool to help you migrating from should to assert
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [cdir](https://github.com/asyncly/cdir) - An interactive console.dir() for node.js similar to console.dir() in webkit.
+- [cdir](https://github.com/0x00A/cdir) - An interactive console.dir() for node.js similar to console.dir() in webkit.
 - [mind](https://github.com/stevenmiller888/mind) - A neural network library built in JavaScript
 - [snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [jcc2d](https://github.com/jasonChen1982/jcc2d) - A lightweight canvas2d-render & built-in an awesome animator with timeline manager
@@ -333,8 +382,7 @@
 - [rax](https://github.com/alibaba/rax) - :tophat: A universal React-compatible render engine.
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 - [mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
-- [Winds](https://github.com/GetStream/Winds) - NOTICE: Winds v2.0 is under active development and will be released in early 2018. It's feature packed with all kinds of goodies and we're excited for you to play with/experience them in the next release. Please stay tuned for updates at https://getstream.io/blog. For a quick read on Winds v2.0, check out the following blog post: https://medium.com/getstream-io/announcing-winds-2-0-an-electron-app-with-support-for-rss-podcasts-d13dbe812477. Thank you for your support! 🚀
-- [docute](https://github.com/egoist/docute) - :scroll: Effortlessly documentation done right.
+- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App
 - [mocer](https://github.com/forsigner/mocer) - Setup a mock server easily
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate) - 为腾讯微信优化的H5动效模板，帮助你快速构建全屏滚动型H5页面。
@@ -348,9 +396,9 @@
 - [lamu](https://github.com/egoist/lamu) - :ribbon: Impressive terminal logger
 - [devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [f2etest](https://github.com/alibaba/f2etest) - F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
-- [nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Developers Framework
 - [preact](https://github.com/developit/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-- [bili](https://github.com/egoist/bili) - 🥂 Delightful library bundler.
+- [bili](https://github.com/egoist/bili) - 🥂  A zero-config library bundler.
 - [codewars-subject](https://github.com/t2krew/codewars-subject) - Codewars
 - [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [egg-vue-typescript-apollo-graphql-startkit](https://github.com/okoala/egg-vue-typescript-apollo-graphql-startkit) - 仅供参考，不要直接用于实际项目~
@@ -359,13 +407,14 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [language-stylus](https://github.com/d4rkr00t/language-stylus) - Stylus language support for Visual Studio Code
 - [js-stack-from-scratch](https://github.com/pd4d10/js-stack-from-scratch) - 从零开始构建 JavaScript 技术栈 - 中文版
-- [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
+- [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
 - [hexo-ruby-character](https://github.com/JamesPan/hexo-ruby-character) - Ruby charater tag for Hexo
 - [wept](https://github.com/chemzqm/wept) - 微信小程序 web 端实时运行工具
-- [vuejs.org](https://github.com/docschina/vuejs.org) - Vue.js 中文文档
+- [vuejs.org](https://github.com/docschina/vuejs.org) - [印记中文](https://docschina.org/) - Vue.js 中文文档
 - [react-native-macos](https://github.com/ptmt/react-native-macos) - React Native for macOS is an experimental fork for writing desktop apps using Cocoa
+- [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) - A curated list of awesome café places in China.
 - [time](https://github.com/anvaka/time) - Simple Google Sheets interface to track time
 - [react-screen](https://github.com/gao-sun/react-screen) - A different React carousel component.
 - [vue-migration-helper](https://github.com/vuejs/vue-migration-helper) - CLI tool to aid in migration from Vue 1.x to 2.0
@@ -376,7 +425,6 @@
 - [biturl](https://github.com/fyibmsd/biturl) - 短网址
 - [MoHa](https://github.com/Mohaer/MoHa) - Never too young, too simple but sometimes moha.
 - [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
-- [gitlab-autochangelog](https://github.com/roshanca/gitlab-autochangelog) - Using Gitlab API to get milestones and issues, generating changelogs automatically.
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [generator-k](https://github.com/minghe/generator-k) - koa工程生成器
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
@@ -386,7 +434,7 @@
 - [vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
 - [cooking](https://github.com/ElemeFE/cooking) - 👨‍🍳 更易上手的前端构建工具
 - [openpack](https://github.com/lmk123/openpack) - Opens the browser when Webpack is ready serving your files.
-- [the-super-tiny-compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use mongodb management tool - Formerly Mongoclient
 - [phantomjs-node](https://github.com/amir20/phantomjs-node) - PhantomJS integration module for NodeJS
@@ -394,7 +442,7 @@
 - [translater.js](https://github.com/jaywcjlove/translater.js) - ♣︎ This is a use of HTML comments page translation solution. For a small amount of static pages, this solution is more simple. it has no dependents, Compression only (4KB)
 - [Damoo](https://github.com/jamesliu96/Damoo) - Lightweight HTML5 Danmaku Engine
 - [generator-fountain-webapp](https://github.com/FountainJS/generator-fountain-webapp) - Yeoman 'fountain' generator to start a webapp
-- [generator-typescript-npm-bower](https://github.com/yohangz/generator-typescript-npm-bower) - :name_badge: Yeoman generator for Typescript Node module and Bower component :name_badge:
+- [generator-typescript-npm-bower](https://github.com/yohangz/generator-typescript-npm-bower) - [DEPRECATED] :name_badge: Yeoman generator for Typescript Node module and Bower component
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) - zhihu daily spa with vue  线上演示在这里 ----&gt;
 - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [liyu](https://github.com/egoist/liyu) - Urban dictionary in command line. 「俚语词典」
@@ -410,7 +458,7 @@
 - [mversion](https://github.com/mikaelbr/mversion) - A cross packaging module version bumper. CLI or API for bumping versions of package.json, bower.json, *.jquery.json etc.
 - [stylus-test-runner](https://github.com/timjgleeson/stylus-test-runner) - DSL for testing your stylus source code
 - [react-typescript](https://github.com/erokar/react-typescript) - React + Typescript + Express + Webpack starter project
-- [react-starter-kit](https://github.com/bodyno/react-starter-kit) - 完美使用 React, Redux, and React-Router！最好用的脚手架
+- [react-starter-kit](https://github.com/bodyno/react-starter-kit) - 完美使用 React, Redux, and React-Router！超好用的脚手架
 - [vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
 - [JsPatterns-ES6](https://github.com/DavidCai1993/JsPatterns-ES6) - :crystal_ball:《JavaScript Patterns》 examples in ECMAScript6
 - [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
@@ -418,7 +466,7 @@
 - [recrawler](https://github.com/egoist/recrawler) - Remote web content crawler done right.
 - [betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 - [mama-hd](https://github.com/nareix/mama-hd) - 妈妈再也不用担心我的 MacBook 发热了计划之 1080P
-- [poi](https://github.com/egoist/poi) - :zap: Delightful web development.
+- [poi](https://github.com/egoist/poi) - :zap: A zero-config bundler for JavaScript applications.
 - [sketch-practice](https://github.com/i5ting/sketch-practice) - 自学sketch实践
 - [Vuelog](https://github.com/myst729/Vuelog) - A backend-free blog system built on top of Vue.js
 - [standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -458,7 +506,7 @@
 - [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [fecs](https://github.com/ecomfe/fecs) - Front End Code Style Suite
 - [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
-- [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) - 💰 Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
+- [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) - 💰 Awesome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 - [vue-dnd](https://github.com/lain-dono/vue-dnd) - DnD (drag and drop) plugin for Vue.js
 - [nativeShare.js](https://github.com/JefferyWang/nativeShare.js) - 一个在手机网页端可以直接调用原生分享的js
 - [rapyd-laravel](https://github.com/zofe/rapyd-laravel) - rapyd: crud widgets for laravel. datatable, grids, forms, in a simple package
@@ -516,13 +564,14 @@
 - [StaticPage](https://github.com/foru17/StaticPage) - 适合简单静态页面的grunt自动化开发工具
 - [Laravel-4-Bootstrap-Starter-Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site) - Laravel 4 Starter Site is a basic blog application using several nice community packages.
 - [spt](https://github.com/fouber/spt) - 简单易用的前端压缩工具
+- [WeixinApi](https://github.com/zxlie/WeixinApi) - 专门用于微信公众平台的Javascript API
 - [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
 - [ChromeExtensionDocument](https://github.com/Yixi/ChromeExtensionDocument) - chrome插件中文开发文档（非官方）
 - [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
 - [Jingle](https://github.com/shixy/Jingle) - Jingle UI是一个基于html5、css3开发轻量级的移动webapp 框架，提供一些基本交互方式，常用的组件(scroll,actionsheet,sidemenu,toggle,push2refresh......)，帮助您更方便的开发移动应用。
 - [scrat](https://github.com/scrat-team/scrat) - Webapp Modular Framework
 - [easyjs](https://github.com/chenmnkken/easyjs) - A simple javascript library
-- [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
 - [xianjian](https://github.com/seavers/xianjian) - 基于html5的仙剑奇侠传
 - [layoutit](https://github.com/justjavac/layoutit) - 基于 bootstrap 实现可视化布局的 layoutit.com 离线中文版
 - [ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - :mag: Sniff web framework and javascript libraries run on browsing website.
@@ -530,19 +579,18 @@
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
 - [rrestjs](https://github.com/DoubleSpout/rrestjs) - High performance nodejs framework
-- [N-blog](https://github.com/nswbmw/N-blog) - 一起学 Node.js
+- [N-blog](https://github.com/nswbmw/N-blog) - 《一起学 Node.js》
 - [N-chat](https://github.com/nswbmw/N-chat) - 使用 Express +  Socket.IO 搭建的多人聊天室
 - [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 - [weixin_api](https://github.com/JeremyWei/weixin_api) - 微信API For Node.js
 - [candy](https://github.com/guo-yu/candy) - a tiny and cute social forum based on duoshuo.com
-- [html5demos](https://github.com/remy/html5demos) - Collection of hacks and demos showing capability of HTML5 apps
 - [html5shiv](https://github.com/aFarkas/html5shiv) - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
 - [siseme](https://github.com/sisev/siseme) - 修复华软学院信息管理系统中的 JavaScript 错误，让它能在 Chrome/Chromium 中使用。
 - [swiftzjs](https://github.com/xingrz/swiftzjs) - 跨平台的 Edusupplicant NodeJS 实现
 
 ## Kotlin 
 
-- [github-profile-summary](https://github.com/tipsy/github-profile-summary) - Tool for visualizing GitHub profiles
+- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## Lua 
 
@@ -554,9 +602,10 @@
 
 ## Objective-C 
 
-- [cliclick](https://github.com/BlueM/cliclick) - OS X tool for executing mouse- and keyboard-related actions from the shell
+- [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) - For macOS.百度网盘 破解SVIP、下载速度限制~
+- [cliclick](https://github.com/BlueM/cliclick) - macOS CLI tool for emulating mouse and keyboard events
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
-- [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开
+- [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
 - [expo](https://github.com/expo/expo) - Expo iOS/Android Client
 - [WeChatPlugin](https://github.com/AlayshChen/WeChatPlugin) - Plugin For Mac WeChat.
 - [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - An unofficial bilibili client for mac
@@ -569,6 +618,12 @@
 
 ## Others 
 
+- [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2018 年成為 Web 開發人員的路線圖
+- [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+- [node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
+- [vue-docs-zh-cn](https://github.com/vuejs/vue-docs-zh-cn) - 
+- [webar.js](https://github.com/alibaba/webar.js) - JS framework for WebAR.
+- [fp-jargon-zh](https://github.com/shfshanyue/fp-jargon-zh) - 函数式编程术语及示例。本项目译自 https://github.com/hemanth/functional-programming-jargon
 - [awesome-mobx](https://github.com/mobxjs/awesome-mobx) - A collection of awesome things regarding MobX.
 - [vscode-styled-jsx](https://github.com/iFwu/vscode-styled-jsx) - Visual Studio Code syntax highlighting for styled-jsx
 - [react-redux-styleguide](https://github.com/ghengeveld/react-redux-styleguide) - React / Redux Style Guide
@@ -577,7 +632,7 @@
 - [bravist-docker](https://github.com/bravist/bravist-docker) - 在2分钟内极速构建超轻量级docker + php全功能开发测试环境
 - [vscode-icon](https://github.com/Raincal/vscode-icon) - Icon created for Visual Studio Code Stable & Insiders.
 - [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
-- [awesome](https://github.com/hyperapp/awesome) - A curated list of awesome projects built with Hyperapp & more.
+- [awesome-hyperapp](https://github.com/hyperapp/awesome-hyperapp) - A curated list of awesome projects built with Hyperapp & more.
 - [sveltejs-documentation-zh-CN](https://github.com/tgxpuisb/sveltejs-documentation-zh-CN) - sveltejs中文文档与相关资料
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [vscode-javascript](https://github.com/xabikos/vscode-javascript) - Contains the code snippets for JavaScript (ES6) development in VS Code editor
@@ -585,7 +640,7 @@
 - [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南
 - [-Api](https://github.com/jokermonn/-Api) - :book:「一个」、「Time 时光」、「开眼」、「一席」、「梨视频」、「微软必应词典」、「金山词典」、「豆瓣电影」、「中央天气」、「魅族天气」、「每日一文」、「12306」、「途牛」、「快递100」、「快递」应用 Api。仅供学习，禁止商业使用，侵权请联系删除。
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [babel-handbook](https://github.com/thejameskyle/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
+- [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
@@ -602,8 +657,6 @@
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 175 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, and Terminator)
-- [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) - A curated list of awesome café places in China.
 - [Home-Network-Note](https://github.com/soulteary/Home-Network-Note) - 🚧 Under Construction 🚧 记录搭建家用兼顾学习和娱乐网络环境的一些事情，以及折腾过的一些硬件的小经验。
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [Study-Step-by-Step](https://github.com/qibaoguang/Study-Step-by-Step) - 不积跬步，无以至千里；不积小流，无以成江河
@@ -638,6 +691,7 @@
 - [pragmatic-jquery](https://github.com/yuanyan/pragmatic-jquery) - Pragmatic jQuery Style
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
+- [paperwork](https://github.com/twostairs/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [interview-questions](https://github.com/fex-team/interview-questions) - FEX 面试问题
 - [Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E) - Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
 - [wiki](https://github.com/greatfire/wiki) - 
@@ -657,7 +711,7 @@
 - [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [Base](https://github.com/TypiCMS/Base) - Multilingual and modular CMS built with Laravel 5.5
 - [laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
-- [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - An eloquent way of importing and exporting Excel and CSV files  for Laravel with the power of PHPExcel
+- [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Laravel Flavoured PhpSpreadsheet
 - [laravel-convert-migrations](https://github.com/adamkearsley/laravel-convert-migrations) - This is a custom command to convert your current SQL database schema into a Laravel 4 Migration file.
 - [sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
 - [entrust](https://github.com/Zizaco/entrust) - Role-based Permissions for Laravel 5
@@ -665,20 +719,20 @@
 - [sweet-alert](https://github.com/uxweb/sweet-alert) - A simple PHP package to show SweetAlerts with the Laravel Framework
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE Helper
 - [bootstrap-yii2](https://github.com/rkit/bootstrap-yii2) - Bootstrap for Yii2
-- [docker-toran-proxy](https://github.com/Jamlee/docker-toran-proxy) - caching composer package by myself
+- [docker-toran-proxy](https://github.com/Jamlee/docker-toran-proxy) - caching composer package by myself    Depreciated
 - [laravel-5-blog](https://github.com/yccphp/laravel-5-blog) - 一个用 laravel 5 开发的 博客系统
+- [react](https://github.com/reactphp/react) - Event-driven, non-blocking I/O with PHP.
 - [CMS](https://github.com/BootstrapCMS/CMS) - A PHP CMS powered by Laravel 5 and Sentry
 - [socialite-china](https://github.com/lialosiu/socialite-china) - Laravel Socialite OAuth authentication for China.
 - [Carbon-Forum](https://github.com/lincanbin/Carbon-Forum) - A high performance open-source forum software written in PHP. Discussions Tags based with Quora/StackOverflow style.
 - [Material-Design-Avatars](https://github.com/lincanbin/Material-Design-Avatars) - Create material deisgn avatars for users just like Google Messager. It may not be unique but looks better than Identicon or Gravatar.
 - [wechat](https://github.com/overtrue/wechat) - :package: It is probably the best SDK in the world for developing WeChat App.
-- [ip-location-zh](https://github.com/zhuzhichao/ip-location-zh) - 查询并返回IP地址的真实地理位置
+- [ip-location-zh](https://github.com/zhuzhichao/ip-location-zh) - 获取 IP 地址的真实地理位置
 - [laravel4-sae](https://github.com/chariothy/laravel4-sae) - 让Laravel4可以无痛地运行在SAE。
 - [laravel-lang](https://github.com/overtrue/laravel-lang) - :earth_asia: 52 languages support for Laravel 5 application.
-- [core](https://github.com/flarum/core) - 
-- [paperwork](https://github.com/twostairs/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+- [core](https://github.com/flarum/core) - The business logic of our delightfully simple forum software
 - [phphub](https://github.com/summerblue/phphub) - (Deprecated See - https://github.com/summerblue/phphub5 ) PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org.
-- [Laravel-lang](https://github.com/caouecs/Laravel-lang) - List of 64 languages for Laravel 5
+- [Laravel-lang](https://github.com/caouecs/Laravel-lang) - List of 67 languages for Laravel 5
 - [TinyLara](https://github.com/TinyLara/TinyLara) - A Simple PHP Framework based on Composer, looks like a Tiny Laravel.
 - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
 - [CodeIgniter-2-with-Eloquent](https://github.com/johnlui/CodeIgniter-2-with-Eloquent) - CodeIgniter 2.2.0 with Eloquent
@@ -706,14 +760,20 @@
 
 ## Python 
 
+- [httpbin](https://github.com/requests/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+- [Jike-Metro](https://github.com/Sorosliu1029/Jike-Metro) - :metro: 即刻 Ⓙ SDK
+- [PIME](https://github.com/EasyIME/PIME) - Develop input methods for Windows easily with Python and node.js
+- [lemon](https://github.com/joway/lemon) - An async and lightweight API framework for python , inspired by Koa and Sanic.
+- [chongding](https://github.com/vanpersiexp/chongding) - 冲顶大会/百万赢家/头脑王者/UC疯狂夺金：抓包获取题目(不用图像识别)，并搜索答案
 - [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
-- [MusicPlayer](https://github.com/HuberTRoy/MusicPlayer) - MusicPlayer 整合多家平台资源(网易云, 虾米, QQ)的跨平台音乐播放器:sparkles:
+- [MusicBox](https://github.com/HuberTRoy/MusicBox) - :blush: :musical_note: MusicPlayer 整合多家平台资源(网易云, 虾米, QQ)的跨平台音乐播放器，尽情享受吧~:sparkles:
 - [v2ex_delete](https://github.com/yingziwu/v2ex_delete) - v2ex删贴监测系统
 - [proxy_list](https://github.com/gavin66/proxy_list) - 爬取免费可用代理，供爬虫等工具使用
 - [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [taobao_bra_crawler](https://github.com/nladuo/taobao_bra_crawler) - a taobao web crawler just for fun.
 - [douban-exporter](https://github.com/Wildog/douban-exporter) - An online service to export 豆瓣 (douban) data to Excel files.
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 175 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, and Terminator)
 - [telegram-language-resources](https://github.com/telegram-zhCN/telegram-language-resources) - Source strings and zh-CN translate resources of Telegram
 - [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - 微信公众号爬虫
@@ -740,12 +800,13 @@
 - [homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [Code-Wars-Kata](https://github.com/riyapabari/Code-Wars-Kata) - 
-- [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
 - [rails-guides-old](https://github.com/ruby-china/rails-guides-old) - A Ruby on Rails Traslation Guide
 
 ## Rust 
 
+- [rssbot](https://github.com/iovxw/rssbot) - 中文 Telegram RSS 机器人
 - [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator
 
 ## Scala 
@@ -762,12 +823,12 @@
 - [laradock](https://github.com/laradock/laradock) - Docker PHP development environment.
 - [OfficeThinner](https://github.com/goodbest/OfficeThinner) - save your disk space with Office 2016 for Mac
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
-- [react](https://github.com/reactphp/react) - Event-driven, non-blocking I/O with PHP.
 - [gdgdocs](https://github.com/GDGNanyang/gdgdocs) - 无障碍使用 Google Form 的服务。
 - [latest-laravel](https://github.com/overtrue/latest-laravel) - 【不再更新】这些东西本不应该存在。
 
 ## Swift 
 
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS.
 - [AMM](https://github.com/15cm/AMM) - Aria2 Menubar Monitor
 - [pbxprojHelper](https://github.com/yulingtianxia/pbxprojHelper) - A macOS tool help you handling project.pbxproj files. Written in Swift 4!
@@ -777,31 +838,40 @@
 
 ## TypeScript 
 
+- [tiny-graphql-client](https://github.com/xialvjun/tiny-graphql-client) - a very simple and tiny graphql client, only support `query` and `mutation`.
+- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [cherow](https://github.com/cherow/cherow) - Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
+- [parket](https://github.com/ForsakenHarmony/parket) - A library to manage application state, heavily inspired by mobx-state-tree
 - [hydux](https://github.com/hydux/hydux) - An Elm-like alternative for Redux with "batteries-included", inspired by hyperapp and Elmish
 - [clime](https://github.com/vilic/clime) - ⌨ The command-line interface framework for TypeScript.
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
-- [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 issue 中查看！
+- [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
 - [Iridium](https://github.com/SierraSoftworks/Iridium) - A high performance MongoDB ORM for Node.js
 - [MDE](https://github.com/vincentdchan/MDE) - MDE is a markdown editor built on Electron
 - [vsc-tasks](https://github.com/walllk/vsc-tasks) - Handle tasks/todo files in Visual Studio Code
 - [vscode-todotasks](https://github.com/sandy081/vscode-todotasks) - A VS Code extension for todo tasks
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
+- [autochangelog](https://github.com/roshanca/autochangelog) - Generating changelogs automatically.
 
 ## Vim script 
 
+- [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim galore 中文翻译，构建 Vim 知识体系
 - [dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [space-vim-dark](https://github.com/liuchengxu/space-vim-dark) - :purple_heart: A dark colorscheme for space-vim that supports GUI and terminal
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 
 ## Vue 
 
+- [surmon.me](https://github.com/surmon-china/surmon.me) - 🆒 My blog site powered by @nuxt
 - [vue-hackernews-2.0-typescript](https://github.com/kevguy/vue-hackernews-2.0-typescript) - HackerNews clone built with TypeScript, Vue 2.0, vue-router & vuex, with server-side rendering
+- [weex-ui](https://github.com/alibaba/weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [news](https://github.com/awesomes-cn/news) - Front-End news
-- [buefy](https://github.com/rafaelpimpa/buefy) - Lightweight UI components for Vue.js based on Bulma
+- [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [npmarket](https://github.com/QingWei-Li/npmarket) - 🛒 More efficient search for node packages.
 - [Zhihu-Daily-Vue.js](https://github.com/pomelo-chuan/Zhihu-Daily-Vue.js) - 依旧江山，无边云树
 - [vuwe](https://github.com/vuwe/vuwe) - WeUI for Vue2
+- [docute](https://github.com/egoist/docute) - :scroll: Effortlessly documentation done right.
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
